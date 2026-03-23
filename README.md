@@ -16,12 +16,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EgarDharmawangsa&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
+<!--
 ## Let's play!
 <div align="center">
   <img src="https://raw.githubusercontent.com/EgarDharmawangsa/EgarDharmawangsa/output/snake.svg" alt="Snake animation" />
 </div>
 
 ###
+-->
 
 [![](https://visitcount.itsvg.in/api?id=EgarDharmawangsa&icon=0&color=3)](https://visitcount.itsvg.in)
 
